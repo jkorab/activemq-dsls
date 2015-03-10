@@ -31,7 +31,7 @@ Here is an example of the DSL usage:
 
 The configuration syntax should be familiar to anyone who has dealt with ActiveMQ in the past.
 
-While this DSL was originally designed for testing, there is no reason why it cannot be used to define a broker.
+While this DSL was originally designed for testing, there is no reason why it cannot be used to define a broker in the general case.
 
 At present, the DSL supports the partial configuration of the following elements only (not all properties are configurable):
 * `transportConnectors`
